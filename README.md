@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋
 
 <!--
 **divya034/divya034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ---
 
-✨ *Always exploring new technologies and building impactful solutions!* 🚀  
+✨ *Driven by fear of being mediocre, always.* 🚀  
